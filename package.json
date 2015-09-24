@@ -1,0 +1,32 @@
+{
+  "name": "fullpage-fa-gulp-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing, testing, 1, 2...check! TOAST! TOAST!\" && exit 1",
+    "start": "npm install && gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahYarian/fullpage-fa-gulp-starter.git"
+  },
+  "author": "Noah Yarian <Noah.Yarian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahYarian/fullpage-fa-gulp-starter/issues"
+  },
+  "homepage": "https://github.com/NoahYarian/fullpage-fa-gulp-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.6",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-main-bower-files": "^1.2.1",
+    "gulp-sass": "^2.0.4"
+  }
+}

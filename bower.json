@@ -1,0 +1,21 @@
+{
+  "name": "fullpage-fa-gulp-starter",
+  "version": "1.0.0",
+  "homepage": "https://github.com/NoahYarian/fullpage-fa-gulp-starter",
+  "authors": [
+    "Noah Yarian <noah.yarian@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.4.0",
+    "fullpage.js": "~2.7.1",
+    "jquery": "~2.1.4"
+  }
+}
